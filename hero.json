@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Netflix",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-red-smoke-flowing-in-the-air-preview-40244-large.mp4",
+    "logoURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
+  },
+  {
+    "title": "Disney+",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-abstract-blue-particles-background-loop-preview-33434-large.mp4"
+  },
+  {
+    "title": "Apple TV",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-blurred-colorful-lights-in-motion-preview-34444-large.mp4"
+  },
+  {
+    "title": "Prime Video",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-moving-deep-blue-clouds-preview-34538-large.mp4"
+  },
+  {
+    "title": "HBO Max",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-purple-and-blue-ink-cloud-background-preview-34460-large.mp4"
+  },
+  {
+    "title": "Paramount+",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-underwater-bubbles-motion-preview-34439-large.mp4"
+  },
+  {
+    "title": "Hulu",
+    "videoURL": "https://assets.mixkit.co/videos/preview/mixkit-green-particles-slowly-moving-on-black-background-preview-34458-large.mp4"
+  }
+]
